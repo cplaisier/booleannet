@@ -9,6 +9,8 @@ data collection and reporting.
 The software is primarly distributed as [http://www.python.org Python] source code and requires that [http://www.python.org Python 2.5] (or later)
 be installed on the target computer.
 
+Works with networkx version 2.1
+
 Latest release *1.2.7*, April 24th, 2014
 
 Download the library:
